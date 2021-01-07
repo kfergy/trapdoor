@@ -1,2 +1,2 @@
 # trapdoor
-where accidental and inceidental code lives
+where accidental and incidental code lives
